@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aliyun.OSS.Samples", "Aliyun.OSS\Aliyun.OSS.Samples\Aliyun.OSS.Samples.csproj", "{ADC5BCC2-3677-4CD5-9ED3-5BBA427519DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aliyun.OSS", "Aliyun.OSS\Aliyun.OSS.csproj", "{ADC5BCC2-3677-4CD5-9ED3-5BBA427519DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
